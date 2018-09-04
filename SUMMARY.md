@@ -5,6 +5,7 @@
   * [Launchpad](year-1/launchpad/README.md)
     * [Week 1: Introduction & SDLC](year-1/launchpad/week-1-introduction-and-sdlc.md)
     * [Week 2: Design](year-1/launchpad/week-2-design.md)
+    * [Week 1 & 2 evenings: Programming 00](year-1/launchpad/week-1-and-2-evenings-programming-00.md)
     * [Week 3: Programming](year-1/launchpad/week-3-programming.md)
     * [Week 4: Programming & Testing](year-1/launchpad/week-4-programming-and-testing.md)
     * [Week 5: Programming & Testing](year-1/launchpad/week-5-programming-and-testing.md)

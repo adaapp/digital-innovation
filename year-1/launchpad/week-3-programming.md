@@ -18,7 +18,7 @@ Welcome to Programming! The next 4 weeks or so are going to be pretty code-inten
 
 ![\(image credit: Oglaf, which I&apos;m not linking to because usually it&apos;s incredibly NSFW\)](../../.gitbook/assets/hellotwiggy.jpg)
 
-Each day this week, you'll have some facilitated lecture and interactive workshop time. The majority of your time is going to be spent writing code though. You'll work in pairs, changing partners frequently, on a series of self-directed workshops designed to expose you to all the basics.
+Each day this week, you'll have some facilitated lecture and interactive workshop time. The majority of your time is going to be spent writing code though. You'll work in pairs, changing partners frequently, on a series of self-directed workshops designed to expose you to all the basics. There's also 3 suggested Code Wars katas for each day after Wednesday. You need to complete at least one of these each day in your own time.
 
 Our goal isn't to have you be expert programmers by the end of the launchpad, memorise everything we cover, or even fully understand a lot of the concepts we talk about - there's no substitute for time & practice for those things. Instead, we want you to know what's possible. We want you to have the skills to ask the right questions, then find answers to those questions on your own.
 
@@ -26,7 +26,7 @@ As part of that, you might find we don't always answer your questions in the way
 
 {% page-ref page="../../for-coaches/what-to-do-when-a-student-asks-for-help.md" %}
 
-## Day 1 - Intro to Programming
+## Day 1: Intro to Programming
 
 ### Slides
 
@@ -40,7 +40,7 @@ TODO
 
 TODO
 
-## Day 2 - Variables, Data Types, Decisions
+## Day 2: Variables, Data Types, Decisions
 
 ### Slides
 
@@ -54,7 +54,7 @@ TODO
 
 TODO
 
-## Day 3 - Functions
+## Day 3: Functions
 
 ### Slides
 
@@ -67,4 +67,60 @@ TODO
 ### Notes
 
 TODO
+
+### Katas
+
+Sign up for Code Wars with your GitHub account.
+
+{% embed data="{\"url\":\"http://www.codewars.com/\",\"type\":\"link\",\"title\":\"Codewars: Train your coding skills\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+Complete at least one of the following three Katas in your own time:
+
+{% embed data="{\"url\":\"https://www.codewars.com/kata/century-from-year\",\"type\":\"link\",\"title\":\"Century From Year\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.codewars.com/kata/thinkful-logic-drills-traffic-light\",\"type\":\"link\",\"title\":\"Thinkful - Logic Drills: Traffic light\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.codewars.com/kata/thinkful-logic-drills-umbrella-decider\",\"type\":\"link\",\"title\":\"Thinkful - Logic Drills: Umbrella decider\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+## Day 4: Arrays
+
+### Slides
+
+TODO
+
+### Workshop
+
+TODO
+
+### Notes
+
+TODO
+
+### Katas
+
+Complete at least one of the following three Katas in your own time:
+
+{% embed data="{\"url\":\"https://www.codewars.com/kata/string-repeat\",\"type\":\"link\",\"title\":\"String repeat\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.codewars.com/kata/thinkful-list-drills-longest-word\",\"type\":\"link\",\"title\":\"Thinkful - List Drills: Longest word\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.codewars.com/kata/sum-of-differences-in-array\",\"type\":\"link\",\"title\":\"Sum of differences in array\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+## Day 5: Objects
+
+### Slides
+
+TODO
+
+### Workshop
+
+TODO
+
+### Notes
+
+TODO
+
+### Katas
+
+Complete at least one of the following three Katas in your own time:
 
