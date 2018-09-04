@@ -1,17 +1,5 @@
 # Week 3: Programming
 
-Welcome to Programming! The next 4 weeks or so are going to be pretty code-intensive. Programming, like a lot of skills, is something that can be pretty hard to learn. Really, the only way to learn to code is by doing it a whole lot. There are some great books articles and videos out there, which can be good as supporting material and to help you understand and contextualise what you're learning. Nothing beats writing code though. Chances are, if you're not writing code, you're not learning to code.
-
-![\(image credit: Oglaf, which I&apos;m not linking to because usually it&apos;s incredibly NSFW\)](../../.gitbook/assets/hellotwiggy.jpg)
-
-Each day this week, you'll have some facilitated lecture and interactive workshop time. The majority of your time is going to be spent writing code though. You'll work in pairs, changing partners frequently, on a series of self-directed workshops designed to expose you to all the basics.
-
-Our goal isn't to have you be expert programmers by the end of the launchpad, memorise everything we cover, or even fully understand a lot of the concepts we talk about - there's no substitute for time & practice for those things. Instead, we want you to know what's possible. We want you to have the skills to ask the right questions, then find answers to those questions on your own.
-
-As part of that, you might find we don't always answer your questions in the way you like. This can be pretty frustrating, but we'll always try and be supportive. Our aim is to help you discover the answer on your own. If you're interested in how we approach that sort of thing, you might want to read the coach guide!
-
-{% page-ref page="../../for-coaches/what-to-do-when-a-student-asks-for-help.md" %}
-
 ## Timetable
 
 {% tabs %}
@@ -23,6 +11,20 @@ As part of that, you might find we don't always answer your questions in the way
 
 {% endtab %}
 {% endtabs %}
+
+## Introduction
+
+Welcome to Programming! The next 4 weeks or so are going to be pretty code-intensive. Programming, like a lot of skills, is something that can be pretty hard to learn. Really, the only way to learn to code is by doing it a whole lot. There are some great books articles and videos out there, which can be good as supporting material and to help you understand and contextualise what you're learning. Nothing beats writing code though. Chances are, if you're not writing code, you're not learning to code.
+
+![\(image credit: Oglaf, which I&apos;m not linking to because usually it&apos;s incredibly NSFW\)](../../.gitbook/assets/hellotwiggy.jpg)
+
+Each day this week, you'll have some facilitated lecture and interactive workshop time. The majority of your time is going to be spent writing code though. You'll work in pairs, changing partners frequently, on a series of self-directed workshops designed to expose you to all the basics.
+
+Our goal isn't to have you be expert programmers by the end of the launchpad, memorise everything we cover, or even fully understand a lot of the concepts we talk about - there's no substitute for time & practice for those things. Instead, we want you to know what's possible. We want you to have the skills to ask the right questions, then find answers to those questions on your own.
+
+As part of that, you might find we don't always answer your questions in the way you like. This can be pretty frustrating, but we'll always try and be supportive. Our aim is to help you discover the answer on your own. If you're interested in how we approach that sort of thing, you might want to read the coach guide!
+
+{% page-ref page="../../for-coaches/what-to-do-when-a-student-asks-for-help.md" %}
 
 ## Day 1 - Intro to Programming
 
