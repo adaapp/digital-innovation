@@ -2,7 +2,7 @@
 
 
 
-{% page-ref page="year-1/launchpad.md" %}
+{% page-ref page="year-1/launchpad/" %}
 
 
 
