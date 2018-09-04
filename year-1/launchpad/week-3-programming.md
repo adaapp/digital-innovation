@@ -40,3 +40,17 @@ TODO
 
 TODO
 
+## Day 3 - Functions
+
+### Slides
+
+TODO
+
+### Workshop
+
+{% embed data="{\"url\":\"https://github.com/adaapp/di-workshop-03-functions\",\"type\":\"link\",\"title\":\"adaapp/di-workshop-03-functions\",\"description\":\"Functions. Contribute to adaapp/di-workshop-03-functions development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/42465401?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+
+### Notes
+
+TODO
+
