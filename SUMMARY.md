@@ -11,8 +11,10 @@
     * [Week 5: Programming & Testing](year-1/launchpad/week-5-programming-and-testing.md)
     * [Week 6: Databases & Consolidation](year-1/launchpad/week-6-databases-and-consolidation.md)
     * [Week 7 & 8: Final Project](year-1/launchpad/week-7-and-8-final-project.md)
+    * [After the Launchpad](year-1/launchpad/after-the-launchpad.md)
 * [Guides](guides/README.md)
   * [How to get unstuck with code](guides/how-to-get-unstuck-with-code.md)
+* [Cool stuff to read](cool-stuff-to-read.md)
 * [For Coaches](for-coaches/README.md)
   * [What to do when a student asks for help](for-coaches/what-to-do-when-a-student-asks-for-help.md)
 
