@@ -1,4 +1,4 @@
-###Resources for Online Learning
+### Resources for Online Learning
 *All links here should go to free courses or resources. Another page (not yet developed) will list non-free resources.
 
 - [Code.org](#Code.org)
