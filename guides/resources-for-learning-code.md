@@ -16,7 +16,7 @@
 
 #### Codewars
 
-[Codewars](https://www.codewars.com) is a challenge site operating in many languages. Students complete Kata, which are ranked in difficulty from 8 kyu (the easiest) to 1 kyu (the most difficult)
+[Codewars](https://www.codewars.com) is a challenge site operating in many languages. Students complete *Kata*, which are ranked in difficulty from 8 kyu (the easiest) to 1 kyu (the most difficult), and can compare their answers to those of others after completing, a process called *Kumite*. The terms are taken from Martial Arts practice, and the site is best seen as a Dojo where you can go to practice in down-time. Pair programming with others is encouraged.
 
 #### Coursera
 
@@ -40,24 +40,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Test
