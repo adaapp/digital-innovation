@@ -5,7 +5,10 @@
 - [Codecademy](#Codecademy)
 - [Codewars](#Codewars)
 - [Coursera](#Coursera)
-
+- [CS50](#CS50)
+- [Free Code Camp](#FreeCodeCamp)
+- [Kadenze](#Kadenze)
+- [Kaggle](#Kaggle)
 
 #### Code.org
 
@@ -23,7 +26,7 @@
 
 [CS50](http://cs50.tv/) is an introductory Computer Science course at Harvard, adapted by David J Malan to make it more accessible to all students regardless of whether they are interested in *majoring* in the subject. It jumps around from language to language, starting with Scratch and C before finally emerging into the enlightened age of Javascript. You can follow the lectures in High Definition video, in [Spanish](https://www.youtube.com/watch?v=LDtN1mlvYx8&list=PLhQjrBD2T383bsZ9yG64-aPhg2M6FM0-O) or in [Virtual Reality](https://www.youtube.com/watch?v=0C8a6GBF8Bg). 
 
-#### Free Code Camp
+#### FreeCodeCamp
 
 [Free Code Camp](https://learn.freecodecamp.org/) was started as a Repository with links to interesting courses, but developed into a project with a built in code editor and hundreds of exercises teaching you how to become a full-stack web developer. Don't be put off by the amount of hours supposedly required to complete each section; a lot of these are factored from the extensive projects. We recommend doing at least the exercises for the Responsive Web Design and Data Structures and Algorithms sections, and then coming back to other sections as you need them.
 
