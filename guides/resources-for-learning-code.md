@@ -42,6 +42,3 @@
 
 [Kaggle](https://www.kaggle.com/) is a learning environment and competition platform geared towards Machine Learning; as such, it's a really good place to learn [Python](https://www.kaggle.com/learn/python), Python's Data Manipulation library [Pandas](https://www.kaggle.com/learn/pandas) (which is also useful for [Visualisation](https://www.kaggle.com/learn/data-visualisation)), [SQL](https://www.kaggle.com/learn/sql) and [R](https://www.kaggle.com/learn/r). There are also plenty of [datasets](https://www.kaggle.com/datasets) to investigate, and [competitions](https://www.kaggle.com/competitions) with significant amounts of prize money and prestige attached.
 
-
-
-{% page-ref page="../for-coaches/resources-for-learning-code.md" %}
