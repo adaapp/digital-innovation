@@ -12,7 +12,11 @@
 
 #### Code.org
 
+[Code.org](Code.org) is a website aimed at school students, but it includes a good [course for learning programming concepts](https://studio.code.org/s/express-2018) , some [basic javascript](https://code.org/student/middle-high)) and a [directory](https://code.org/student/university) of other places to learn.
+
 #### Codecademy
+
+[Codeacademy](https://www.codecademy.com/) is a comprehensive website with its own integrated learning environment and a reasonable amount of free content. Particularly recommended are the courses for [HTML](https://www.codecademy.com/learn/learn-html), [CSS](https://www.codecademy.com/learn/learn-css)
 
 #### Codewars
 
