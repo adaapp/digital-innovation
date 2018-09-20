@@ -2,15 +2,7 @@
 
 ## Timetable
 
-{% tabs %}
-{% tab title="Cohort 4" %}
 {% embed data="{\"url\":\"https://airtable.com/shra5dNWVSA29PfmS\",\"type\":\"rich\",\"title\":\"Cohort 4 Student Timetable \(Week 3\) - Airtable\",\"description\":\"Explore the \\\"Cohort 4 Student Timetable \(Week 3\)\\\" view on Airtable.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://airtable.com/images/favicon/baymax/apple-touch-icon.png\",\"width\":180,\"height\":180,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://static.airtable.com/images/oembed/airtable.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"reader\",\"url\":\"https://airtable.com/embed/shra5dNWVSA29PfmS\",\"html\":\"<iframe src=\\\"https://airtable.com/embed/shra5dNWVSA29PfmS\\\" style=\\\"border: 0; width: 100%; height: 533px;\\\" allowfullscreen></iframe>\",\"height\":533,\"aspectRatio\":null}}" %}
-{% endtab %}
-
-{% tab title="Cohort 5" %}
-
-{% endtab %}
-{% endtabs %}
 
 ## Introduction
 
@@ -30,7 +22,7 @@ As part of that, you might find we don't always answer your questions in the way
 
 ### Slides
 
-{% embed data="{\"url\":\"https://docs.google.com/presentation/d/e/2PACX-1vQlwh4juNxBGoVkVB9sI5vUlnIW3dBqHLWccHQFjvv4ZSl2wfHzKm-Cc4zKma8xz3tzgi2cfj9KcXZS/embed?start=false&loop=false&delayms=3000\",\"type\":\"video\",\"title\":\"Programming Day 1\",\"description\":\"Programming \(with JavaScript\) Day 1 of the programming module\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/presentations/images/favicon4.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh4.googleusercontent.com/s367HcfaFLaISaV1qR5dt70M\_ec2BYQIzZer6vtC1OJttwsMHlFUSKl73WCz1ZuHXU5Cvg=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"player\",\"url\":\"https://docs.google.com/presentation/d/e/2PACX-1vQlwh4juNxBGoVkVB9sI5vUlnIW3dBqHLWccHQFjvv4ZSl2wfHzKm-Cc4zKma8xz3tzgi2cfj9KcXZS/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\\\"><iframe src=\\\"https://docs.google.com/presentation/d/e/2PACX-1vQlwh4juNxBGoVkVB9sI5vUlnIW3dBqHLWccHQFjvv4ZSl2wfHzKm-Cc4zKma8xz3tzgi2cfj9KcXZS/embed?start=false&loop=false&delayms=3000\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0}}" %}
+{% embed data="{\"url\":\"https://docs.google.com/presentation/d/1bsfKttSOLUl7sYtNaKgAmYFinuHqHTHv3\_fca0vNnL8/edit?usp=sharing\",\"type\":\"video\",\"title\":\"Programming Day 1\",\"description\":\"Programming \(with JavaScript\) Day 1 of the programming module\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/presentations/images/favicon4.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh4.googleusercontent.com/s367HcfaFLaISaV1qR5dt70M\_ec2BYQIzZer6vtC1OJttwsMHlFUSKl73WCz1ZuHXU5Cvg=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"player\",\"url\":\"https://docs.google.com/presentation/d/1bsfKttSOLUl7sYtNaKgAmYFinuHqHTHv3\_fca0vNnL8/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\\\"><iframe src=\\\"https://docs.google.com/presentation/d/1bsfKttSOLUl7sYtNaKgAmYFinuHqHTHv3\_fca0vNnL8/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0}}" %}
 
 ### Workshop
 
@@ -38,7 +30,7 @@ As part of that, you might find we don't always answer your questions in the way
 
 ### Notes
 
-TODO
+Help out by filling out this section!
 
 ## Day 2: Variables, Data Types, Decisions
 
@@ -52,7 +44,7 @@ TODO
 
 ### Notes
 
-TODO
+Help out by filling out this section!
 
 ## Day 3: Functions
 
@@ -66,7 +58,7 @@ TODO
 
 ### Notes
 
-TODO
+Help out by filling out this section!
 
 ### Katas
 
@@ -94,7 +86,7 @@ TODO
 
 ### Notes
 
-TODO
+Help out by filling out this section!
 
 ### Katas
 
@@ -118,7 +110,7 @@ TODO
 
 ### Notes
 
-TODO
+Help out by filling out this section!
 
 ### Katas
 
