@@ -38,7 +38,7 @@ _All links here should go to free courses or resources. Another page \(not yet d
 
 ## Future Learn
 
-[Future Learn] is a massively open online course library run by the Open University. There are only a few courses on Javascript - one on [3D Graphics](https://www.futurelearn.com/courses/3d-graphics-web-programmers) and one on [Electronic Music](https://www.futurelearn.com/courses/electronic-music-tools) - but there are a whole range of related courses [relevant to developers](https://www.futurelearn.com/career-advice/become-a-developer) and to entrepreneurs, including courses on [business finance](https://www.futurelearn.com/courses/finance-for-business-growth) and running a [makerspace](https://www.futurelearn.com/courses/build-a-makerspace).
+[Future Learn](https://www.futurelearn.com) is a massively open online course library run by the Open University. There are only a few courses on Javascript - one on [3D Graphics](https://www.futurelearn.com/courses/3d-graphics-web-programmers) and one on [Electronic Music](https://www.futurelearn.com/courses/electronic-music-tools) - but there are a whole range of related courses [relevant to developers](https://www.futurelearn.com/career-advice/become-a-developer) and to entrepreneurs, including courses on [business finance](https://www.futurelearn.com/courses/finance-for-business-growth) and running a [makerspace](https://www.futurelearn.com/courses/build-a-makerspace).
 
 ## Kadenze
 
