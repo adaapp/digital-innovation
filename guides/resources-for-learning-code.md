@@ -8,6 +8,7 @@ _All links here should go to free courses or resources. Another page \(not yet d
 * [Coursera](resources-for-learning-code.md#Coursera)
 * [CS50](resources-for-learning-code.md#CS50)
 * [Free Code Camp](resources-for-learning-code.md#FreeCodeCamp)
+* [Future Learn](resources-for-learning-code.md#FutureLearn)
 * [Kadenze](resources-for-learning-code.md#Kadenze)
 * [Kaggle](resources-for-learning-code.md#Kaggle)
 
@@ -34,6 +35,10 @@ _All links here should go to free courses or resources. Another page \(not yet d
 ## FreeCodeCamp
 
 [Free Code Camp](https://learn.freecodecamp.org/) was started as a Repository with links to interesting courses, but developed into a project with a built in code editor and hundreds of exercises teaching you how to become a full-stack web developer. Don't be put off by the amount of hours supposedly required to complete each section; a lot of these are factored from the extensive projects. We recommend doing at least the exercises for the Responsive Web Design and Data Structures and Algorithms sections, and then coming back to other sections as you need them.
+
+## Future Learn
+
+[Future Learn] is a massively open online course library run by the Open University. There are only a few courses on Javascript - one on [3D Graphics](https://www.futurelearn.com/courses/3d-graphics-web-programmers) and one on [Electronic Music](https://www.futurelearn.com/courses/electronic-music-tools) - but there are a whole range of related courses [relevant to developers](https://www.futurelearn.com/career-advice/become-a-developer) and to entrepreneurs, including courses on [business finance](https://www.futurelearn.com/courses/finance-for-business-growth) and running a [makerspace](https://www.futurelearn.com/courses/build-a-makerspace).
 
 ## Kadenze
 
