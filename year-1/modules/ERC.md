@@ -45,6 +45,19 @@ At the end of the module, learners will be expected to:
 #### Organisational approaches to managing ethical decision making
 #### Moral obligations for private and public organisations
 
+## Assessment
+
+#### Written Assignment 1 (40%)
+#### Written Assignment 2 (40%)
+#### Presentation (20%)
+
+
+|   |   |   |   |   |   |   |   |   |   |   |  
+|---:|---|---|---|---|---|---|---|---|---|---|
+| **Learning Outcome** | A1 | A2 | A3 | B1 | B2 | B3 | C1 | C2 | D1 | D2 | 
+| *Coursework* |   |   |   | X | X | X | X | X | X | X | X | X | 
+| *Presentation* | X | X | X |  |   |   |   |   |   |   | X | X | 
+
 
 
 
