@@ -4,7 +4,7 @@ The study of programming and the development of programming skills are central t
 ## Aims
 * To provide students with expertise in the design and implementation of algorithms and in the choice, design and implementation of appropriate data types and simple data structures for the efficient solution of problems.
 * To provide an understanding of structured and introductory object oriented programming which will provide the ability to choose and devise a design, and implement and test efficient solutions to complex programming problems.
-* To provide an understanding of the fundamental concepts upon which object-orientation is based and the skills to implement those concepts in programming language Javascript.
+* To provide an understanding of the fundamental concepts upon which object-orientation is based and the skills to implement those concepts in the programming language Javascript.
 
 ## Intended Learning Outcomes
 
