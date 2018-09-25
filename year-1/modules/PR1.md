@@ -4,7 +4,7 @@ The study of programming and the development of programming skills are central t
 ## Aims
 * To provide students with expertise in the design and implementation of algorithms and in the choice, design and implementation of appropriate data types and simple data structures for the efficient solution of problems.
 * To provide an understanding of structured and introductory object oriented programming which will provide the ability to choose and devise a design, and implement and test efficient solutions to complex programming problems.
-* To provide an understanding of the fundamental concepts upon which object-orientation is based and the skills to implement those concepts in programming language Java.
+* To provide an understanding of the fundamental concepts upon which object-orientation is based and the skills to implement those concepts in programming language Javascript.
 
 ## Intended Learning Outcomes
 
@@ -22,7 +22,7 @@ The study of programming and the development of programming skills are central t
 
 #### C. Practical and professional skills
 *At the end of the module, learners will be expected to:*
-* C1: Load, edit, compile, test and execute programs in Java
+* C1: Load, edit, compile, test and execute programs in Javascript
 * C2: Develop software that is well structured, well documented and readable.
 * C3: Trace the execution of simple sections of code and determine the outcome for a given input.
 
@@ -60,8 +60,9 @@ The study of programming and the development of programming skills are central t
 * Using abstract classes, interfaces and inheritance.
 * Good design and programming practice.
 
-#### Java Programs on a Unix system
-* Editing, Compiling and Running a java programme in a command-line Unix environment
+#### Javascript Programs on a Unix system
+* Using a command-line Unix environment to operate Node.js
+* Editing and running a Javascript programme locally
 
 ## Assessment 
 The course will be assessed through a practical assignment that requires the student to take a written specification for a piece of software and design and implement an appropriate solution. The assignment requires analysis of problems that meet the given specification; the design and development of computer-based solutions to solve problems and the submission of a report. This assessment will be in two parts. Feedback will be provided on the analysis. The assignment will assess the students’ competence in object oriented programming skills, documentation and explanation. This assignment is weighted as 100% of the module. 
