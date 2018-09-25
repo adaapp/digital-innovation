@@ -8,7 +8,7 @@ The study of programming and the development of programming skills are central t
 
 * To provide students with expertise in the design and implementation of algorithms and in the choice, design and implementation of appropriate data types and simple data structures for the efficient solution of problems.
 * To provide an understanding of structured and introductory object oriented programming which will provide the ability to choose and devise a design, and implement and test efficient solutions to complex programming problems.
-* To provide an understanding of the fundamental concepts upon which object-orientation is based and the skills to implement those concepts in the programming language Javascript.
+* To provide an understanding of the fundamental concepts upon which object-orientation is based and the skills to implement those concepts in the programming language JavaScript.
 
 ## Intended Learning Outcomes
 
@@ -25,14 +25,14 @@ _At the end of the module, learners will be expected to:_
 _At the end of the module learners will be expected to:_
 
 * B1: Formulate algorithmic solutions to problem statements using a structured approach to problem solving.
-* B2: Translate algorithmic solutions into formal software solutions utilising Java programming language.
+* B2: Translate algorithmic solutions into formal software solutions utilising JavaScript programming language.
 * B3:  Verify syntactic and semantic correctness of a program and how it meets the original problem specification.
 
 ### C. Practical and professional skills
 
 _At the end of the module, learners will be expected to:_
 
-* C1: Load, edit, compile, test and execute programs in Javascript
+* C1: Load, edit, compile, test and execute programs in JavaScript
 * C2: Develop software that is well structured, well documented and readable.
 * C3: Trace the execution of simple sections of code and determine the outcome for a given input.
 
@@ -48,38 +48,34 @@ _At the end of the module, learners will be expected to:_
 
 ### Imperative Programming
 
-* Core imperative programming ideas: sequence, selection, iteration, recursion, assignment and variables.
+* Core imperative programming ideas: sequence, selection, iteration, assignment and variables.
 * Functions, parameters.
 * Arrays and files.
-* Pointers and memory management.
 
-### Program design in the small
+### Program design
 
 * Developing small programs using structured programming techniques
 * Conditional structures, repetition structures, and functions.
 * Designing and implementing simple algorithms and data structures.
 * Good programming practice and defensive programming.
 
-### Programming with the Java Programming Language
+### Programming with the JavaScript Programming Language
 
 * The core language
 * Developing classes
-* Inheritance and dynamic binding.
 * Exceptions
 * File handling
-* Comparison of Java to other languages
 
 ### Object-Oriented Programming
 
 * Developing small programs using classes.
 * Identifying and implementing class relationships.
-* Using abstract classes, interfaces and inheritance.
 * Good design and programming practice.
 
-### Javascript Programs on a Unix system
+### Running JavaScript programs
 
 * Using a command-line Unix environment to operate Node.js
-* Editing and running a Javascript programme locally
+* Editing and running a JavaScript program in the browser
 
 ## Assessment
 

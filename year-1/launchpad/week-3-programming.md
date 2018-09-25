@@ -36,7 +36,7 @@ Help out by filling out this section!
 
 ### Slides
 
-TODO
+[https://docs.google.com/presentation/d/1n8wFJhCQF-ytMsDWgkEamVZFlxkdit3An6S1k8FCk4g/edit?usp=sharing](https://docs.google.com/presentation/d/1n8wFJhCQF-ytMsDWgkEamVZFlxkdit3An6S1k8FCk4g/edit?usp=sharing)
 
 ### Workshop
 
