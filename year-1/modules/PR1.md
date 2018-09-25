@@ -37,32 +37,33 @@ At the end of the module, learners will be expected to:
 ## Indicative Content
 
 #### Imperative Programming
-Core imperative programming ideas: sequence, selection, iteration, recursion, assignment and variables.
-Functions, parameters.
-Arrays and files.
-Pointers and memory management.
+* Core imperative programming ideas: sequence, selection, iteration, recursion, assignment and variables.
+* Functions, parameters.
+* Arrays and files.
+* Pointers and memory management.
 
 #### Program design in the small
-Developing small programs using structured programming techniques, including conditional structures, repetition structures, and function.
-Designing and implementing simple algorithms and data structures.
-Good programming practice and defensive programming.
+* Developing small programs using structured programming techniques
+  * Conditional structures, repetition structures, and functions.
+  * Designing and implementing simple algorithms and data structures.
+  * Good programming practice and defensive programming.
 
 #### Programming with the Java Programming Language
-The core language
-Developing classes
-Inheritance and dynamic binding.
-Exceptions
-File handling
-Comparison of Java to other languages
+* The core language
+* Developing classes
+* Inheritance and dynamic binding.
+* Exceptions
+* File handling
+* Comparison of Java to other languages
 
 #### Object-Oriented Programming
-Developing small programs using classes.
-Identifying and implementing class relationships.
-Using abstract classes, interfaces and inheritance.
-Good design and programming practice.
+* Developing small programs using classes.
+* Identifying and implementing class relationships.
+* Using abstract classes, interfaces and inheritance.
+* Good design and programming practice.
 
 #### Java Programs on a Unix system
-Editing, Compiling and Running a java programme in a command-line Unix environment
+* Editing, Compiling and Running a java programme in a command-line Unix environment
 
 ## Assessment 
 The course will be assessed through a practical assignment that requires the student to take a written specification for a piece of software and design and implement an appropriate solution. The assignment requires analysis of problems that meet the given specification; the design and development of computer-based solutions to solve problems and the submission of a report. This assessment will be in two parts. Feedback will be provided on the analysis. The assignment will assess the students’ competence in object oriented programming skills, documentation and explanation. This assignment is weighted as 100% of the module. 
