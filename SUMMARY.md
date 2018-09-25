@@ -2,6 +2,13 @@
 
 * [Digital Innovation Apprenticeship](README.md)
 * [Year 1](year-1/README.md)
+  * [Modules](year-1/modules/README.md)
+    * [Computer Programming](year-1/modules/PR1.md)
+    * [Databases](year-1/modules/DAT.md)
+    * [Data Structures and Algorithms](year-1/modules/DSA.md)
+    * [Ethics and Commercial Reasoning](year-1/modules/ECR.md)
+    * [Software Development Life Cycle](year-1/modules/SDL.md)
+    * [Testing, Integrated and Automated](year-1/modules/TIA.md)
   * [Launchpad](year-1/launchpad/README.md)
     * [Week 1: Introduction & SDLC](year-1/launchpad/week-1-introduction-and-sdlc.md)
     * [Week 2: Design](year-1/launchpad/week-2-design.md)
