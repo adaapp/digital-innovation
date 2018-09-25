@@ -10,7 +10,7 @@ This module aims to enable learners to develop the tools and perspectives requir
 
 *The main aims of the module are :*
 * To provide students with an appreciation of ethics and how they should be applied to inform personal and professional decision making 
-* To make students familiar with a range of recurrent ethical issues, problems and dilemmas arising in business with a specific focus on technology. 
+* To make students familiar with a range of recurrent ethical issues, problems and dilemmas arising in business with a specific focus on technology.
 * To give students practice in formulating, defending, and planning the implementation of action plans managing ethical dilemmas.
 * To familiarise students with the relevant literature on ethics and their applicability in the work place and specifically in relation to technology
 
