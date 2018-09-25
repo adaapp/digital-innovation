@@ -25,13 +25,13 @@ This module aims to:
 * B3: Evaluate current state of software security and create a plan for dealing with it throughout the life cycle.
 
 #### C. Practical and professional skills
-At the end of the module, learners will be expected to:
+*At the end of the module, learners will be expected to:*
 * C1: Use object oriented systems analysis and design techniques to model simple systems. 
 * C2: Use project management techniques to plan a project. 
 * C3: To develop software in a consistent and efficient way with a demonstrable & standards-compliant security quality, in line with the organizational risks.
 
 #### D Key transferable skills 
-At the end of the module, learners will be expected to:
+*At the end of the module, learners will be expected to:*
 * D1: Decompose complex requirements in a problem-solving exercise.
 * D2: Use personal initiative and communications skills throughout the process.
 * D3: Illustrate how an organization’s employment policies and practices can support the information security effort.
