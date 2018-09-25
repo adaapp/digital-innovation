@@ -43,8 +43,8 @@ The study of programming and the development of programming skills are central t
 #### Program design in the small
 * Developing small programs using structured programming techniques
 * Conditional structures, repetition structures, and functions.
-  * Designing and implementing simple algorithms and data structures.
-  * Good programming practice and defensive programming.
+* Designing and implementing simple algorithms and data structures.
+* Good programming practice and defensive programming.
 
 #### Programming with the Java Programming Language
 * The core language
