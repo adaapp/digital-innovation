@@ -4,6 +4,7 @@
 * [Guides](guides/README.md)
   * [How to get unstuck with code](guides/how-to-get-unstuck-with-code.md)
   * [Resources for learning to code](guides/resources-for-learning-code.md)
+* [Cool stuff to read](cool-stuff-to-read.md)
 * [Launchpad](launchpad/README.md)
   * [Week 1: Introduction & SDLC](launchpad/week-1-introduction-and-sdlc.md)
   * [Week 2: Design](launchpad/week-2-design.md)
@@ -31,7 +32,6 @@
       * [Module Descriptor](modules/year-1/dsa/module-descriptor.md)
     * [Ethics and Commercial Reasoning](modules/year-1/ecr/README.md)
       * [Module Descriptor](modules/year-1/ecr/module-descriptor.md)
-* [Cool stuff to read](cool-stuff-to-read.md)
 * [For Coaches](for-coaches/README.md)
   * [What to do when a student asks for help](for-coaches/what-to-do-when-a-student-asks-for-help.md)
 
