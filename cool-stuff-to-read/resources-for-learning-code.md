@@ -1,6 +1,6 @@
 # Resources for learning to code
 
-_All links here should go to free courses or resources. Another page \(not yet developed\) will list non-free resources._
+_All links here should go to free courses or resources. Another page \(tba\) will list non-free resources._
 
 * [Code.org](resources-for-learning-code.md#Code.org)
 * [Codecademy](resources-for-learning-code.md#Codecademy)
