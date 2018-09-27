@@ -1,5 +1,3 @@
-# Ethics and Commercial Reasoning
-
 ## Rationale
 
 Students engaged in business in either the private or public sector should understand codes of moral conduct and expect that their superiors and those whom they manage also follow acceptable standards of morality and uphold ethical standards, particularly in relation to the development and deployment of new technology.
