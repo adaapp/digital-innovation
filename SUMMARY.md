@@ -6,7 +6,7 @@
   * [Resources for learning to code](guides/resources-for-learning-code.md)
 * [Launchpad](launchpad/README.md)
   * [Week 1: Introduction & SDLC](launchpad/week-1-introduction-and-sdlc.md)
-  * [Week 2: Design](launchpad/week-2-design.md)
+  * [Week 2: Design Thinking](launchpad/week-2-design.md)
   * [Week 1 & 2 evenings: Programming 00](launchpad/week-1-and-2-evenings-programming-00.md)
   * [Week 3: Programming](launchpad/week-3-programming.md)
   * [Week 4: Programming & Testing](launchpad/week-4-programming-and-testing.md)
