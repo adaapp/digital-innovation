@@ -1,6 +1,6 @@
 # Week 1: Introduction & SDLC
 
-## Timetable
+## Timetable  
 
 {% tabs %}
 {% tab title="Cohort 4" %}
@@ -11,4 +11,14 @@
 
 {% endtab %}
 {% endtabs %}
+
+## Hello & Welcome
+
+Intro....  
+  
+Day 1: Intro to the Agile Mindset
+
+Day 2: Scrum 101 & User Centred Design
+
+Day 3: Sprinting
 
