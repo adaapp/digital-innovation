@@ -37,6 +37,7 @@
 * [Library](cool-stuff-to-read/README.md)
   * [Madetech](cool-stuff-to-read/building-high-performance-teams-with-agile.md)
   * [Haverbeke](cool-stuff-to-read/haverbeke.md)
+  * [Simpson](cool-stuff-to-read/simpson.md)
 * [For Coaches](for-coaches/README.md)
   * [What to do when a student asks for help](for-coaches/what-to-do-when-a-student-asks-for-help.md)
 
