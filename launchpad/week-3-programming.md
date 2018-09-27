@@ -50,7 +50,7 @@ Help out by filling out this section!
 
 ### Slides
 
-TODO
+[https://docs.google.com/presentation/d/1q7IxhaUpx-XeKwrXRHb1l0n\_jlbdOVCaSt0IRvbGhSM/edit?usp=sharing](https://docs.google.com/presentation/d/1q7IxhaUpx-XeKwrXRHb1l0n_jlbdOVCaSt0IRvbGhSM/edit?usp=sharing)
 
 ### Workshop
 
