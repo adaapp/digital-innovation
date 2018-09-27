@@ -1,5 +1,3 @@
-# Software Development Life Cycle
-
 ## Rationale
 
 Most IT departments or software development companies, irrespective of their size, have a formal set of procedures for initiating and developing new business information systems. This is often termed as System Development Life Cycle \(SDLC\). SDLC is an essential process of developing software solutions within organisations. This module introduces students to the systems development life cycles and processes. It shows how object-oriented analysis and design techniques can be used early in the life cycle and how project management and quality control techniques can be applied throughout the life cycle. Software tools are used to support the modeling and management of systems. Methods, and how techniques fit into them, are introduced.
