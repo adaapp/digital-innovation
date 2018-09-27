@@ -12,3 +12,37 @@
 {% endtab %}
 {% endtabs %}
 
+## Agenda **for the week** {#agenda-for-the-week}
+
+Intro....
+
+## **Day 1: Introduction to ADA** {#day-1-introduction-to-ada}
+
+#### **​** {#undefined}
+
+## **Day 2: Agile Mindset** {#day-2-agile-mindset}
+
+#### **Slides:** {#slides}
+
+**Notes:**
+
+#### **Independent Learning:** {#independent-learning}
+
+Research the 7 phases of the 'Software Development Lifecycle
+
+## **Day 3: Scrum 101 & User Centred Design** {#day-3-scrum-101-and-user-centred-design}
+
+#### **Slides:** {#slides-1}
+
+**Notes:**
+
+**Independent Learning:**
+
+## **Day 4: Sprinting** {#day-4-sprinting}
+
+#### **Slides:** {#slides-2}
+
+**Notes:**
+
+**Independent Learning:**
+
