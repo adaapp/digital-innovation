@@ -1,5 +1,3 @@
-# Data Structures and Algorithms
-
 ## Rationale
 
 The implementation phase of software development requires practical competence in program construction and knowledge of the performance characteristics and the theoretical limits of algorithms, In this module, the use of classical abstract data types, algorithms that operate on abstract data types, and the analysis of algorithm performance for different data structures are considered. The module provides the necessary foundation in data and storage structures for all computing streams. In particular, structures and algorithms for both the internal and the external storage of data are presented. At the same time, the module provides the student with the opportunity to reinforce and enhance their programming skills.
