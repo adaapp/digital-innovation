@@ -34,7 +34,8 @@
     * [Ethics and Commercial Reasoning](modules/year-1/ecr/README.md)
       * [Module Descriptor](modules/year-1/ecr/module-descriptor.md)
       * [Resources](modules/year-1/ecr/resources.md)
-* [Cool stuff to read](cool-stuff-to-read.md)
+* [Library](cool-stuff-to-read/README.md)
+  * [Building High Performance Teams With Agile](cool-stuff-to-read/building-high-performance-teams-with-agile.md)
 * [For Coaches](for-coaches/README.md)
   * [What to do when a student asks for help](for-coaches/what-to-do-when-a-student-asks-for-help.md)
 

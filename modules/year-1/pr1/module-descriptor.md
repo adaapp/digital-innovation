@@ -1,5 +1,7 @@
 # Module Descriptor
 
+## Computer Programming
+
 ### Rationale
 
 The study of programming and the development of programming skills are central to any undergraduate course in computing. Traditionally, software has been developed using an algorithmic programming language implemented using top-down design and a structured approach. Students must, therefore, become skilled in the use of one such language. In recent years, there has been a move towards greater use of languages, which facilitate an object-oriented approach. The language chosen, therefore, should be such that it will be a vehicle for the development of skills and concepts, which are transferable to any other algorithmic language and at the same time, facilitate the transition to an object-oriented approach to software design.

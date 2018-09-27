@@ -1,4 +1,6 @@
 # Data Structures and Algorithms
 
-Data Structures & Algorithms
+{% page-ref page="module-descriptor.md" %}
+
+{% page-ref page="resources.md" %}
 

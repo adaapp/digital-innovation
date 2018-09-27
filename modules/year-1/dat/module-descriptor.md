@@ -1,5 +1,7 @@
 # Module Descriptor
 
+## Database Systems
+
 ### Rationale
 
 Database technologies have a wide range of applications and represent a core component of information systems. They are also the preferred storage method for large multi-user software applications. This course presents the fundamental principles of database systems. It provides students with good understanding of database design and implementation and a practical experience in using database management systems. It focuses on design, implementation and querying of relational database systems.

@@ -1,4 +1,6 @@
 # System Development Lifecycle
 
-System Development Life Cycle
+{% page-ref page="module-descriptor.md" %}
+
+{% page-ref page="resources.md" %}
 
