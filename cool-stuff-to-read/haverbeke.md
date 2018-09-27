@@ -1,8 +1,8 @@
 # Haverbeke
 
-#### [https://eloquentjavascript.net](https://eloquentjavascript.net)
 
-{% hint style="info" %}
-Eloquent Javascript
+
+{% hint style="success" %}
+[Eloquent Javascript](https://eloquentjavascript.net)
 {% endhint %}
 
