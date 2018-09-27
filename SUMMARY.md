@@ -41,5 +41,5 @@
   * [Simpson](cool-stuff-to-read/simpson.md)
 * [For Coaches](for-coaches/README.md)
   * [What to do when a student asks for help](for-coaches/what-to-do-when-a-student-asks-for-help.md)
-* [Lesson: Intro to the Command Line](lesson-intro-to-the-command-line.md)
+  * [Instructor Notes: Intro to the Command Line](for-coaches/lesson-intro-to-the-command-line.md)
 

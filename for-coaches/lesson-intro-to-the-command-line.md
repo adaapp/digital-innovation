@@ -1,4 +1,4 @@
-# Lesson: Intro to the Command Line
+# Instructor Notes: Intro to the Command Line
 
 ### Lesson Outline
 
