@@ -12,7 +12,7 @@ Good luck with your studies. This guide should provide a useful point of referen
 
 Mark Smith CEO
 
-{% page-ref page="year-1/launchpad/" %}
+{% page-ref page="launchpad/" %}
 
 {% page-ref page="guides/" %}
 
