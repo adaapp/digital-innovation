@@ -1,5 +1,3 @@
-# Testing, Integrated and Automated
-
 ## Rationale
 
 Computer software is present almost everywhere. The impact of software failure is often quite considerably so reliability and robustness is paramount when developing software. The importance of effective testing methodologies for quality assurance in the software industry has increased substantially in recent years. This module introduces concepts and techniques for testing software and assuring its quality. Methods for software testing and quality assurance are integrated into all phases of the software development process and it also extends to other aspects such as systems and hardware development. Testing is crucial in the process of developing software and this module provides with the principles for conducting software testing in a systematic and effective manner.
