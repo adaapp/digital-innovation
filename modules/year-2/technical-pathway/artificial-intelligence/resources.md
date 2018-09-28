@@ -17,6 +17,6 @@
 {% endhint %}
 
 {% hint style="info" %}
-Workshop 4: 
+[Workshop 4:  Decision Trees](https://drive.google.com/open?id=1UyggaKcuzeRhD4A9Krnl1BpxLNZMedCh)
 {% endhint %}
 
