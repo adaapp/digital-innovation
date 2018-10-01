@@ -14,7 +14,11 @@
 
 ## Agenda **for the week** {#agenda-for-the-week}
 
-Intro....
+Hello, welcome to ADA and the first week of an exciting learning adventure. We’re kicking of with SDLC \(Systems Development Lifecycle\) which we have rebranded as ‘**Seeing, Doing, Learning & Collaborating**’. We’ll be exploring **why & how** we design & develop software _\(hint: to solve problems for real people\)_ and **how** we successfully work together in collaborative teams.  
+
+
+The advice I would give for this module;  forget what you know, be open, be curious, trust the process and have a go!  
+
 
 ## **Day 1: Introduction to ADA** {#day-1-introduction-to-ada}
 
