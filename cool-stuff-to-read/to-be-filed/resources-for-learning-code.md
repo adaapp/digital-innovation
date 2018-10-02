@@ -1,17 +1,5 @@
 # Resources for learning to code
 
-_All links here should go to free courses or resources. Another page \(tba\) will list non-free resources._
-
-* [Code.org](resources-for-learning-code.md#Code.org)
-* [Codecademy](resources-for-learning-code.md#Codecademy)
-* [Codewars](resources-for-learning-code.md#Codewars)
-* [Coursera](resources-for-learning-code.md#Coursera)
-* [CS50](resources-for-learning-code.md#CS50)
-* [Free Code Camp](resources-for-learning-code.md#FreeCodeCamp)
-* [Future Learn](resources-for-learning-code.md#FutureLearn)
-* [Kadenze](resources-for-learning-code.md#Kadenze)
-* [Kaggle](resources-for-learning-code.md#Kaggle)
-
 ## Code.org
 
 [Code.org](https://github.com/adaapp/digital-innovation/tree/ee4ba046daa25302766556829be15498601f0da8/guides/Code.org) is a website aimed at school students, but it includes a good [course for learning programming concepts](https://studio.code.org/s/express-2018) , some [basic javascript](https://code.org/student/middle-high) and a [directory](https://code.org/student/university) of other places to learn.
@@ -26,7 +14,7 @@ _All links here should go to free courses or resources. Another page \(tba\) wil
 
 ## Coursera
 
-[Coursera](https://www.coursera.org) is a massively open online course repository. Check out [Creative Programming for Digital Media and Mobile Apps](https://www.coursera.org/learn/digitalmedia/), which uses Processing.js, an earlier attempt to adapt the Processing framework to Javascript.
+[Coursera](https://www.coursera.org) is a massively open online course repository. Check out [Creative Programming for Digital Media and Mobile Apps](https://www.coursera.org/learn/digitalmedia/), which uses Processing.js, an earlier attempt to adapt the Processing framework to Javascript. The [Math for Data Science](https://www.coursera.org/learn/datasciencemathskills) course is a good option for anyone who would like to improve their mathematics knowledge.
 
 ## CS50
 

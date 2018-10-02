@@ -6,8 +6,6 @@ description: These are the formal Open University module descriptions.
 
 As part of your Foundation Degree in Digital Innovation, you will study twelve modules at Level 4 and 5. All of these modules are accredited by the Open University, a world-renowned institution for non-traditional technology education. Assessment is through a variety of coursework, reports and examinations; at all stages you will be assisted by lecturers and learning support staff. Depending on the conditions of your apprenticeship, you may also be able to study four further modules, allowing you to receive a full Bachelors' Degree in Digital Innovation.
 
-![](../.gitbook/assets/launchpad%20%282%29.png)
-
 **Understanding the Pathways:**
 
 To fit with varying skills and interests, we offer three pathways in our digital curriculum to allow for a tailored programme. These specialised pathways, chosen by the employer and apprentice, are as follows:
