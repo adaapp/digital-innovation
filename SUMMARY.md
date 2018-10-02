@@ -48,7 +48,7 @@
 * [Library](cool-stuff-to-read/README.md)
   * [To Be Filed](cool-stuff-to-read/to-be-filed/README.md)
     * [Resources for learning to code](cool-stuff-to-read/to-be-filed/resources-for-learning-code.md)
-    * [From Sparky](cool-stuff-to-read/to-be-filed/from-sparky.md)
+    * [--](cool-stuff-to-read/to-be-filed/from-sparky.md)
   * [Platforms](cool-stuff-to-read/iles.md)
   * [Books](cool-stuff-to-read/books/README.md)
     * [Madetech](cool-stuff-to-read/books/building-high-performance-teams-with-agile.md)
