@@ -40,6 +40,10 @@ _All links here should go to free courses or resources. Another page \(tba\) wil
 
 [Future Learn](https://www.futurelearn.com) is a massively open online course library run by the Open University. There are only a few courses on Javascript - one on [3D Graphics](https://www.futurelearn.com/courses/3d-graphics-web-programmers) and one on [Electronic Music](https://www.futurelearn.com/courses/electronic-music-tools) - but there are a whole range of related courses [relevant to developers](https://www.futurelearn.com/career-advice/become-a-developer) and to entrepreneurs, including courses on [business finance](https://www.futurelearn.com/courses/finance-for-business-growth) and running a [makerspace](https://www.futurelearn.com/courses/build-a-makerspace).
 
+## Github
+
+[Github ](https://github.com)is an amazing resource for educational repositories; generally most public repositories for libraries will have good documentation and user guides, but there are also specific repositories that exist only for teaching - Free Code Camp started this way. Also important are pages for so-called 'Koans' - programming challenges with explanations - this is a good [directory.](http://www.lauradhamilton.com/learn-a-new-programming-language-today-with-koans)
+
 ## Kadenze
 
 [Kadenze](https://www.kadenze.com/) is the quirky art school of Massively Open Online Courses, specialising in courses that teach you how to apply your coding knowledge to produce beautiful works of art, music, architecture and more. Highly recommended is the amazing [Introduction to Programming for the Visual Arts with P5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js), taught by the developer of P5, Lauren McCarthy, and Casey Reas, who developed the Processing language on which P5 is based.
