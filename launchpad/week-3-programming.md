@@ -82,7 +82,7 @@ TODO
 
 ### Workshop
 
-TODO
+{% embed data="{\"url\":\"https://github.com/adaapp/di-workshop-04-arrays-loops\",\"type\":\"link\",\"title\":\"adaapp/di-workshop-04-arrays-loops\",\"description\":\"Arrays & loops. Contribute to adaapp/di-workshop-04-arrays-loops development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/42465401?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
 
 ### Notes
 
