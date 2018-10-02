@@ -41,5 +41,3 @@ Learning to use the command line is a crucial skill for developers, and is not a
 * ​[The Codecademy Command Line Course](https://www.codecademy.com/learn/learn-the-command-line)​
 * ​[Julia Evans' tweets](https://twitter.com/b0rk)
 
-
-

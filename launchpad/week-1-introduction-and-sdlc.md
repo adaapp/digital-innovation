@@ -28,8 +28,6 @@ The advice I would give for this module;  forget what you know, be open, be curi
 
 #### **Slides:** {#slides}
 
-**Notes:**
-
 #### **Independent Learning:** {#independent-learning}
 
 Research the 7 phases of the 'Software Development Lifecycle
@@ -38,15 +36,9 @@ Research the 7 phases of the 'Software Development Lifecycle
 
 #### **Slides:** {#slides-1}
 
-**Notes:**
-
-**Independent Learning:**
-
 ## **Day 4: Sprinting** {#day-4-sprinting}
 
 #### **Slides:** {#slides-2}
 
-**Notes:**
-
-**Independent Learning:**
+\*\*\*\*
 
