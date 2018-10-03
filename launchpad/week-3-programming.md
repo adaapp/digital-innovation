@@ -112,5 +112,13 @@ Help out by filling out this section!
 
 ### Katas
 
-Complete at least one of the following three Katas in your own time:
+Complete at least two of the following Katas in your own time:
+
+{% embed data="{\"url\":\"https://www.codewars.com/kata/grasshopper-create-the-rooms/javascript\",\"type\":\"link\",\"title\":\"Grasshopper - Create the rooms\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.codewars.com/kata/welcome\",\"type\":\"link\",\"title\":\"Welcome!\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.codewars.com/kata/crash-override\",\"type\":\"link\",\"title\":\"Crash Override\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.codewars.com/kata/job-matching-number-1/javascript\",\"type\":\"link\",\"title\":\"Job Matching \#1\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
 
