@@ -18,5 +18,3 @@ Ask someone nearby for help, and continue the process above with them involved. 
 
 Once you've tried the above, you can ask a coach for some help. They'll try and point you in the right direction, but might avoid answering your question directly. They might refer you back to an earlier part of this process too! If you're interested, check out the guide doc that coaches should follow when you ask them for help:
 
-{% page-ref page="../for-coaches/what-to-do-when-a-student-asks-for-help.md" %}
-
