@@ -15,7 +15,7 @@ The advice we would give for this module: forget what you know, be open, be curi
 
 ## **Day 2: Agile Mindset** {#day-2-agile-mindset}
 
-### **Slides:** {#slides}
+### **Slides:** [**https://drive.google.com/open?id=1u-JvXKvZwN\_vTUvNsKuS30FUcuEeUZoe**](https://drive.google.com/open?id=1u-JvXKvZwN_vTUvNsKuS30FUcuEeUZoe)\*\*\*\* {#slides}
 
 ### **Independent Learning:** {#independent-learning}
 
