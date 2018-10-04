@@ -1,6 +1,6 @@
 # How to get unstuck with code
 
-## 1: Try to figure things out on your own \(10-20 mins\)
+## 1: Try to figure things out on your own 
 
 1. **Stop.** Just stop writing code. Stopping is usually a good start. Step away from the keyboard.
 2. **Identify your problem.** Does your code not work but you don't know why? Is your code doing something unexpected? Are you struggling to figure out how to start solving a particular problem
@@ -10,7 +10,7 @@
 6. **Test your hypothesis.** Make the smallest possible change to your code to test your hypothesis. Did it work?
 7. **Repeat.** Keep collecting data and testing hypotheses. You can often solve your problem or collect enough information that it becomes obvious this way.
 
-## 2: Ask someone nearby \(5-15 mins\)
+## 2: Ask someone nearby
 
 Ask someone nearby for help, and continue the process above with them involved. Often, a different perspective is all that's needed for a solution to suddenly become obvious.
 
