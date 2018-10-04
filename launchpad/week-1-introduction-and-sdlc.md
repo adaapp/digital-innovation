@@ -23,7 +23,7 @@ Research the 7 phases of the 'Software Development Lifecycle
 
 ## **Day 3: Scrum 101 & User Centred Design** {#day-3-scrum-101-and-user-centred-design}
 
-### **Slides:** {#slides-1}
+### **Slides:** [**https://drive.google.com/open?id=1G1aiS-l\_MApZN3N4O0wij-RyGAEjdQcl**](https://drive.google.com/open?id=1G1aiS-l_MApZN3N4O0wij-RyGAEjdQcl)\*\*\*\* {#slides-1}
 
 ## **Day 4: Sprinting** {#day-4-sprinting}
 
