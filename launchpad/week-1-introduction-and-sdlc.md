@@ -25,7 +25,7 @@ Research the 7 phases of the 'Software Development Lifecycle
 
 ## **SDLC Day 3: Sprinting** {#day-4-sprinting}
 
-### **Slides:** {#slides-2}
+### **Slides:** [**https://drive.google.com/open?id=1T4QD52Ey8ISQ-Q-G6m4boQQuhcf--WNo**](https://drive.google.com/open?id=1T4QD52Ey8ISQ-Q-G6m4boQQuhcf--WNo)\*\*\*\* {#slides-2}
 
 \*\*\*\*
 
