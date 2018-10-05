@@ -27,5 +27,3 @@ Research the 7 phases of the 'Software Development Lifecycle
 
 ### **Slides:** [**https://drive.google.com/open?id=1T4QD52Ey8ISQ-Q-G6m4boQQuhcf--WNo**](https://drive.google.com/open?id=1T4QD52Ey8ISQ-Q-G6m4boQQuhcf--WNo)\*\*\*\* {#slides-2}
 
-\*\*\*\*
-
