@@ -123,11 +123,7 @@ cat somefile
 subl somefile
 ```
 
-### Symbolic Links
 
-```text
-ln –s from two
-```
 
 ### Other Commands
 
@@ -137,8 +133,6 @@ Explain these other commands:
 nano # Opens a simple text editor
 vim # Open Vim, a powerful text editor
 code # Open VS Code text in OSX
-su # Swith to the root user (not allowed on OSX)
-sudo # Run a command as the root user.
 ```
 
 ### Flags
@@ -155,28 +149,13 @@ npm -v
 npm list
 ```
 
-### Dotfiles
-
-In unic, any file or folder whose name starts with a dot is considered a hidden file. We often use these to store configuration data. Most UNIX systems will have a lot of thes "dotfiles" in the home directory.
-
-We can customize the bash shell in our `~/.bash_profile` file.
-
-Explain what dotfiles are in general and show the dotfiles on your machine.
-
-```text
-alias foobar="echo 'Hello There'"
-alias lswc="ls –la"
-```
-
-Save and `reload` and `lswc` or `foobar`.
-
-We've just added two command aliases.
-
 ### Summary
 
 Highlight the importance of knowing how to use the command line, particularly the basic stuff relating to paths, moving, copying and removing files etc.
 
 ### Exercises
+
+{% page-ref page="../launchpad/week-1-and-2-evenings-programming-00/monday-week-2-command-line-tasks.md" %}
 
 ### Further Reading
 
