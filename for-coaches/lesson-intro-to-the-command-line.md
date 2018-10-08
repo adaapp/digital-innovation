@@ -40,7 +40,7 @@ Explain why the terminal is important:
 * Talk over the Windows filesystem and draw it up on the board as a tree.
 * Show the diagram of the UNIX filesystem and explain its similarities to Windows
 
-![Unix Filesystem Diagram](assets/unixfs.png)
+![](../.gitbook/assets/unixfs%20%281%29.png)
 
 * Explain the mac filesystem and draw it up as a tree.
 * Explain `/` and `~`, using the tree diagrams on the board.
@@ -50,7 +50,13 @@ Explain why the terminal is important:
 
 Draw up a key on the board as a reminder to the students:
 
-> `.` = Current directory `..` = Next directory up `~` = Home Directory \(`/Users/my-username`\) `/` = Root Directory \(equivelent to `C:/` on Windows\)
+> `.` = Current directory
+>
+> `..` = Next directory up
+>
+> `~` = Home Directory \(`/Users/my-username`\)
+>
+> `/` = Root Directory \(equivelent to `C:/` on Windows\)
 
 **On Laptop...**
 
@@ -117,17 +123,6 @@ cat somefile
 subl somefile
 ```
 
-### Globbing and Spaces in Filenames
-
-Explain how globbing works to act on multiple files, and that we can handle spaces in paths by quoting the path or escaping
-
-```text
-ls *.txt
-rm *.txt
-cd "dir with spaces"
-cd dir\ with\ spaces
-```
-
 ### Symbolic Links
 
 ```text
@@ -164,8 +159,6 @@ npm list
 
 In unic, any file or folder whose name starts with a dot is considered a hidden file. We often use these to store configuration data. Most UNIX systems will have a lot of thes "dotfiles" in the home directory.
 
-> **QUESTION**: What dotfiles and dotfolders do ou have in your `~`? What do you think they do? Have a look at some of them with `cat` or `subl`.
-
 We can customize the bash shell in our `~/.bash_profile` file.
 
 Explain what dotfiles are in general and show the dotfiles on your machine.
@@ -184,13 +177,6 @@ We've just added two command aliases.
 Highlight the importance of knowing how to use the command line, particularly the basic stuff relating to paths, moving, copying and removing files etc.
 
 ### Exercises
-
-> * Practice using the basic shell commands
-> * Customize the functioning of your shell
->   * Use .bash\_profile.
->   * Don't just copy/paste without understanding.
->   * Think about why you are doing it
->   * Talk to each other on Slack
 
 ### Further Reading
 
