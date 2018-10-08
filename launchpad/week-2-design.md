@@ -10,7 +10,7 @@ This week isn’t about ‘design thinking’, it’s about **‘design doing’
 
 ## **Session 4: Empathy**
 
-### **Slides:**
+### **Slides:** [**https://drive.google.com/open?id=1yxdAmfq0JoOqoblO1654mwIImE7gub5D**](https://drive.google.com/open?id=1yxdAmfq0JoOqoblO1654mwIImE7gub5D)\*\*\*\*
 
 ## **Session 5: Exploration**
 
