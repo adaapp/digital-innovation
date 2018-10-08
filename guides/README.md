@@ -1,4 +1,6 @@
 # Guides
 
+{% page-ref page="how-to-get-unstuck-with-code.md" %}
 
+{% page-ref page="command-line-cheat-sheet.md" %}
 
