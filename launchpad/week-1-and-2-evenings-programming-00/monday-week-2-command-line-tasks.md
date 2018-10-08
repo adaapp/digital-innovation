@@ -13,7 +13,16 @@ The command line cheat sheet might help you with some of the tasks below. It's a
 
 ## 2. Get your website running locally
 
+Do the following using only your command line and text editor.
 
+1. Create a `projects` folder to store all of your code projects.
+2. Create a "project folder" for your website.
+3. Move your website files into this folder **OR** if you're using Thimble, create all the files you need and copy the content from Thimble into the files
+4. Install `serve`, a tool for running websites locally. Use `npm install --global serve`
+5. Start `serve` in your website folder and open the URL it gives you - use[ the serve documentation](https://www.npmjs.com/package/serve#usage) to help
+6. Find out how to stop the server
+7. Find out what a http server is
+8. Find out what `localhost` means
 
 ## 3. What are dotfiles, and how ho they work?
 
