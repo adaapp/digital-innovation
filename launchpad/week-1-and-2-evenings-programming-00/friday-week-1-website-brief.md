@@ -1,7 +1,5 @@
 # Friday Week 1: Website Brief
 
-
-
 ### **Website brief**
 
 * a single page personal portfolio website
