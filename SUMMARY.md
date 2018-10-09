@@ -9,7 +9,7 @@
     * [Background and HTML](launchpad/week-1-and-2-evenings-programming-00/wednesday-week-1-background-and-html.md)
     * [Cascading Stylesheets](launchpad/week-1-and-2-evenings-programming-00/thursday-week-1-css.md)
     * [Friday Week 1: Website Brief](launchpad/week-1-and-2-evenings-programming-00/friday-week-1-website-brief.md)
-    * [Monday Week 2 - Command line tasks](launchpad/week-1-and-2-evenings-programming-00/monday-week-2-command-line-tasks.md)
+    * [Monday & Tuesday Week 2 - Command line tasks](launchpad/week-1-and-2-evenings-programming-00/monday-week-2-command-line-tasks.md)
   * [Week 3: Programming](launchpad/week-3-programming.md)
 * [Guides](guides/README.md)
   * [How to get unstuck with code](guides/how-to-get-unstuck-with-code.md)

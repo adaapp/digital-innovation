@@ -12,7 +12,7 @@ Our goal isn't to have you be expert programmers by the end of the launchpad, me
 
 ## Timetable
 
-{% embed data="{\"url\":\"https://airtable.com/shra5dNWVSA29PfmS\",\"type\":\"rich\",\"title\":\"Cohort 4 Student Timetable \(Week 3\) - Airtable\",\"description\":\"Explore the \\\"Cohort 4 Student Timetable \(Week 3\)\\\" view on Airtable.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://airtable.com/images/favicon/baymax/apple-touch-icon.png\",\"width\":180,\"height\":180,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://static.airtable.com/images/oembed/airtable.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"reader\",\"url\":\"https://airtable.com/embed/shra5dNWVSA29PfmS\",\"html\":\"<iframe src=\\\"https://airtable.com/embed/shra5dNWVSA29PfmS\\\" style=\\\"border: 0; width: 100%; height: 533px;\\\" allowfullscreen></iframe>\",\"height\":533,\"aspectRatio\":null}}" %}
+{% embed url="https://airtable.com/shra5dNWVSA29PfmS" %}
 
 ## Day 1: Intro to Programming
 
@@ -22,7 +22,7 @@ Our goal isn't to have you be expert programmers by the end of the launchpad, me
 
 ### Workshop
 
-{% embed data="{\"url\":\"https://github.com/adaapp/di-workshop-01-intro-to-p5\",\"type\":\"link\",\"title\":\"adaapp/di-workshop-01-intro-to-p5\",\"description\":\"Introducing JavaScript with P5.js. Contribute to adaapp/di-workshop-01-intro-to-p5 development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/42465401?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/adaapp/di-workshop-01-intro-to-p5" %}
 
 ### Notes
 
@@ -36,7 +36,7 @@ Help out by filling out this section!
 
 ### Workshop
 
-{% embed data="{\"url\":\"https://github.com/adaapp/di-workshop-02-variables-datatypes-decisions\",\"type\":\"link\",\"title\":\"adaapp/di-workshop-02-variables-datatypes-decisions\",\"description\":\"Variables, Data Types, Decisions. Contribute to adaapp/di-workshop-02-variables-datatypes-decisions development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/42465401?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/adaapp/di-workshop-02-variables-datatypes-decisions" %}
 
 ### Notes
 
@@ -50,7 +50,7 @@ Help out by filling out this section!
 
 ### Workshop
 
-{% embed data="{\"url\":\"https://github.com/adaapp/di-workshop-03-functions\",\"type\":\"link\",\"title\":\"adaapp/di-workshop-03-functions\",\"description\":\"Functions. Contribute to adaapp/di-workshop-03-functions development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/42465401?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/adaapp/di-workshop-03-functions" %}
 
 ### Notes
 
@@ -60,15 +60,15 @@ Help out by filling out this section!
 
 Sign up for Code Wars with your GitHub account.
 
-{% embed data="{\"url\":\"http://www.codewars.com/\",\"type\":\"link\",\"title\":\"Codewars: Train your coding skills\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="http://www.codewars.com/" %}
 
 Complete at least one of the following three Katas in your own time:
 
-{% embed data="{\"url\":\"https://www.codewars.com/kata/century-from-year\",\"type\":\"link\",\"title\":\"Century From Year\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.codewars.com/kata/century-from-year" %}
 
-{% embed data="{\"url\":\"https://www.codewars.com/kata/thinkful-logic-drills-traffic-light\",\"type\":\"link\",\"title\":\"Thinkful - Logic Drills: Traffic light\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.codewars.com/kata/thinkful-logic-drills-traffic-light" %}
 
-{% embed data="{\"url\":\"https://www.codewars.com/kata/thinkful-logic-drills-umbrella-decider\",\"type\":\"link\",\"title\":\"Thinkful - Logic Drills: Umbrella decider\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.codewars.com/kata/thinkful-logic-drills-umbrella-decider" %}
 
 ## Day 4: Arrays
 
@@ -78,9 +78,9 @@ TODO
 
 ### Workshop
 
-{% embed data="{\"url\":\"https://github.com/adaapp/di-workshop-04-arrays-loops\",\"type\":\"link\",\"title\":\"adaapp/di-workshop-04-arrays-loops\",\"description\":\"Arrays & loops. Contribute to adaapp/di-workshop-04-arrays-loops development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/42465401?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/adaapp/di-workshop-04-arrays-loops" %}
 
-{% embed data="{\"url\":\"https://github.com/adaapp/di-workshop-04a-debugging\",\"type\":\"link\",\"title\":\"adaapp/di-workshop-04a-debugging\",\"description\":\"How to debug your code. Contribute to adaapp/di-workshop-04a-debugging development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/42465401?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/adaapp/di-workshop-04a-debugging" %}
 
 ### Notes
 
@@ -90,11 +90,11 @@ Help out by filling out this section!
 
 Complete at least one of the following three Katas in your own time:
 
-{% embed data="{\"url\":\"https://www.codewars.com/kata/string-repeat\",\"type\":\"link\",\"title\":\"String repeat\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.codewars.com/kata/string-repeat" %}
 
-{% embed data="{\"url\":\"https://www.codewars.com/kata/thinkful-list-drills-longest-word\",\"type\":\"link\",\"title\":\"Thinkful - List Drills: Longest word\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.codewars.com/kata/thinkful-list-drills-longest-word" %}
 
-{% embed data="{\"url\":\"https://www.codewars.com/kata/sum-of-differences-in-array\",\"type\":\"link\",\"title\":\"Sum of differences in array\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.codewars.com/kata/sum-of-differences-in-array" %}
 
 ## Day 5: Objects
 
@@ -114,11 +114,11 @@ Help out by filling out this section!
 
 Complete at least two of the following Katas in your own time:
 
-{% embed data="{\"url\":\"https://www.codewars.com/kata/grasshopper-create-the-rooms/javascript\",\"type\":\"link\",\"title\":\"Grasshopper - Create the rooms\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.codewars.com/kata/grasshopper-create-the-rooms/javascript" %}
 
-{% embed data="{\"url\":\"https://www.codewars.com/kata/welcome\",\"type\":\"link\",\"title\":\"Welcome!\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.codewars.com/kata/welcome" %}
 
-{% embed data="{\"url\":\"https://www.codewars.com/kata/crash-override\",\"type\":\"link\",\"title\":\"Crash Override\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.codewars.com/kata/crash-override" %}
 
-{% embed data="{\"url\":\"https://www.codewars.com/kata/job-matching-number-1/javascript\",\"type\":\"link\",\"title\":\"Job Matching \#1\",\"description\":\"Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.codewars.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"//www.codewars.com/assets/logos/logo-square-paper-bg.jpg\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+{% embed url="https://www.codewars.com/kata/job-matching-number-1/javascript" %}
 
