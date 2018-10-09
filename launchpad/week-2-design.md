@@ -14,7 +14,7 @@ This week isn’t about ‘design thinking’, it’s about **‘design doing’
 
 ## **Session 5: Exploration**
 
-### **Slides:** [**https://drive.google.com/open?id=10ylLgwKwMzyldqfk1gl6V-KPtHouhCK-**](https://drive.google.com/open?id=10ylLgwKwMzyldqfk1gl6V-KPtHouhCK-)\*\*\*\*
+### **Slides:** [**https://drive.google.com/open?id=1JMkEwoYA1kDty7KghsG3KQKdi06moXeB**](https://drive.google.com/open?id=1JMkEwoYA1kDty7KghsG3KQKdi06moXeB)\*\*\*\*
 
 ## **Session 6: Prototyping**
 
