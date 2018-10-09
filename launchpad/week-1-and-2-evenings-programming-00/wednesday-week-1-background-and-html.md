@@ -18,7 +18,13 @@ He invented the web _for everyone_
 
 {% embed data="{\"url\":\"https://www.zdnet.com/article/web-inventor-tim-berners-lee-stars-in-olympics-opening-ceremony/\",\"type\":\"link\",\"title\":\"Web inventor Tim Berners-Lee stars in Olympics opening ceremony \| ZDNet\",\"description\":\"\'This is for everyone\', Berners-Lee says in a tweet as London 2012 organisers honour the inventor of the web in the Olympic Games opening extravaganza\",\"icon\":{\"type\":\"icon\",\"url\":\"https://zdnet2.cbsistatic.com/fly/bundles/zdnetcss/images/logos/logo-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://zdnet4.cbsistatic.com/hub/i/r/2014/09/18/89f4b898-3f38-11e4-b6a0-d4ae52e95e57/thumbnail/770x578/506c42c2ed60ecb6efbf5b89c593c4b4/sir-tim-berners-lee-stars-in-olympics-opening-ceremony.png\",\"width\":770,\"height\":578,\"aspectRatio\":0.7506493506493507},\"caption\":\"\\\"This is for everyone\\\"\"}" %}
 
-The principle of universal accessibility permeates everything we do at Ada
+The principle of universal accessibility permeates everything we do at Ada.
+
+This is the world's first website:
+
+{% embed data="{\"url\":\"http://info.cern.ch/hypertext/WWW/TheProject.html\",\"type\":\"link\",\"title\":\"The World Wide Web project\",\"icon\":{\"type\":\"icon\",\"url\":\"http://info.cern.ch/favicon.ico\",\"aspectRatio\":0},\"caption\":\"View the page source and behold the world\'s first HTML\"}" %}
+
+Whilst HTML has evolved over the years, the principles are the same:
 
 {% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction\_to\_HTML\",\"type\":\"link\",\"title\":\"Introduction to HTML\",\"description\":\"At its heart, HTML is a fairly simple language made up of elements, which can be applied to pieces of text to give them different meaning in a document \(Is it a paragraph? Is it a bulleted list? Is it part of a table?\), structure a document into logical sections \(Does it have a header? Three columns of content? A navigation menu?\), and embed content such as images and videos into a page. This module will introduce the first two of these, and introduce fundamental concepts and syntax you need to know to understand HTML.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
 
