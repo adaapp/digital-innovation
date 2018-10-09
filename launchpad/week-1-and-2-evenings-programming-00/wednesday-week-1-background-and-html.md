@@ -4,7 +4,7 @@ description: >-
   HTML) followed by a hands-on session with HTML.
 ---
 
-# Wednesday Week 1: Background and HTML
+# Background and HTML
 
 {% embed data="{\"url\":\"http://submarinecablemap.com/\",\"type\":\"link\",\"title\":\"Submarine Cable Map\",\"description\":\"TeleGeography’s free interactive Submarine Cable Map is based on our authoritative Global Bandwidth research, and depicts active and planned submarine cable systems and their landing stations. Selecting a cable on the map projection or from the submarine cable list provides access to the cable’s profile, including the cable’s name, ready-for-service \(RFS\) date, length, owners, website, and landing points.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.submarinecablemap.com/images/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://twentyfiveyears-assets.telegeography.com/submarinecablemap.png\",\"width\":1221,\"height\":762,\"aspectRatio\":0.6240786240786241},\"caption\":\"The Internet is just a network of cables\"}" %}
 

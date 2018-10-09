@@ -2,9 +2,9 @@
 description: 'An overview of Cascading Stylesheets, and how we use them to style HTML'
 ---
 
-# Thursday Week 1: CSS
+# Cascading Stylesheets
 
-View the page source of. this early version of Yahoo. This was built before CSS was invented.
+View the page source of this early version of Yahoo. This was built before CSS was invented.
 
 {% embed data="{\"url\":\"https://kottke.org/plus/misc/yahoo-1994/\",\"type\":\"link\",\"title\":\"Yahoo - A Guide to WWW\",\"icon\":{\"type\":\"icon\",\"url\":\"https://kottke.org/favicon.ico\",\"aspectRatio\":0}}" %}
 
