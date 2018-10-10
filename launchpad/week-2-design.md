@@ -18,7 +18,7 @@ This week isn’t about ‘design thinking’, it’s about **‘design doing’
 
 ## **Session 6: Prototyping**
 
-### **Slide**
+### **Slide:** [**https://drive.google.com/open?id=1sUJQC-lux\_x3o6RszTK1RgIyNks1-toe**](https://drive.google.com/open?id=1sUJQC-lux_x3o6RszTK1RgIyNks1-toe)\*\*\*\*
 
 ## **Session 7: Testing**
 
