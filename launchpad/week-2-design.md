@@ -22,9 +22,9 @@ This week isn’t about ‘design thinking’, it’s about **‘design doing’
 
 ## **Session 7: Testing**
 
-### **Slide**
+### **Slide:** [**https://drive.google.com/open?id=1mDTprkbLcmqo-7I7SQ0AmPVnsEhonsrl**](https://drive.google.com/open?id=1mDTprkbLcmqo-7I7SQ0AmPVnsEhonsrl)\*\*\*\*
 
 ## **Session 8: Learn**
 
-### **Slide**
+### **Slide:** [**https://drive.google.com/open?id=1f8otIwp80mYry-WGBvXzDXLBF\_CBKXBJ**](https://drive.google.com/open?id=1f8otIwp80mYry-WGBvXzDXLBF_CBKXBJ)\*\*\*\*
 
