@@ -16,6 +16,7 @@
 * [Guides](guides/README.md)
   * [How to get unstuck with code](guides/how-to-get-unstuck-with-code.md)
   * [Command line cheat sheet](guides/command-line-cheat-sheet.md)
+  * [Git cheat sheet](guides/git-cheat-sheet.md)
 * [For Coaches](for-coaches/README.md)
   * [Instructor Notes: Intro to the Command Line](for-coaches/lesson-intro-to-the-command-line.md)
 
