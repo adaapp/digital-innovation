@@ -4,3 +4,5 @@
 
 {% page-ref page="command-line-cheat-sheet.md" %}
 
+{% page-ref page="git-cheat-sheet.md" %}
+

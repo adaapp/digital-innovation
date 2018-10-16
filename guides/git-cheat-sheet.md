@@ -1,5 +1,7 @@
 # Git cheat sheet
 
+{% page-ref page="command-line-cheat-sheet.md" %}
+
 ## Create a repo
 
 | Command | Description |

@@ -44,3 +44,7 @@
 | `subl .` | Open the current folder \(.\) in Sublime Text |
 | `subl myfile.txt` | Open myfile.txt in Sublime Text |
 
+## Git
+
+{% page-ref page="git-cheat-sheet.md" %}
+
