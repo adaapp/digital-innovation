@@ -1,4 +1,4 @@
-# Revision Tips & Staing Organised
+# Revision Tips & Staying Organised
 
 As the launchpad progresses you'll find yourself learning faster and faster, and it can sometimes be hard to keep your head above the water. Here are some tips for keeping organised and revising what you've learned.
 

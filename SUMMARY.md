@@ -14,7 +14,7 @@
     * [Thursday Week 2: Introduction to Git](launchpad/week-1-and-2-evenings-programming-00/thursday-week-2-introduction-to-git.md)
   * [Week 3: Programming](launchpad/week-3-programming.md)
 * [Guides](guides/README.md)
-  * [Revision Tips & Staing Organised](guides/revision-tips-and-staing-organised.md)
+  * [Revision Tips & Staying Organised](guides/revision-tips-and-staing-organised.md)
   * [How to get unstuck with code](guides/how-to-get-unstuck-with-code.md)
   * [Git cheat sheet](guides/git-cheat-sheet.md)
   * [Command line cheat sheet](guides/command-line-cheat-sheet.md)
