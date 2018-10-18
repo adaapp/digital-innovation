@@ -70,11 +70,11 @@ Complete at least one of the following three Katas in your own time:
 
 {% embed url="https://www.codewars.com/kata/thinkful-logic-drills-umbrella-decider" %}
 
-## Day 4: Arrays
+## Day 4: Arrays and Loops
 
 ### Slides
 
-TODO
+[https://docs.google.com/presentation/d/11UtqSFnjyHV8zM39EeAFiCKj8IRUtWbONh1ANoRzRa4/edit?usp=sharing](https://docs.google.com/presentation/d/11UtqSFnjyHV8zM39EeAFiCKj8IRUtWbONh1ANoRzRa4/edit?usp=sharing)
 
 ### Workshop
 
