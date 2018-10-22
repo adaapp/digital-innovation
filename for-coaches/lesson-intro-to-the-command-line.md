@@ -40,7 +40,7 @@ Explain why the terminal is important:
 * Talk over the Windows filesystem and draw it up on the board as a tree.
 * Show the diagram of the UNIX filesystem and explain its similarities to Windows
 
-![](../.gitbook/assets/unixfs%20%281%29.png)
+![](../.gitbook/assets/unixfs.png)
 
 * Explain the mac filesystem and draw it up as a tree.
 * Explain `/` and `~`, using the tree diagrams on the board.

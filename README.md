@@ -8,5 +8,7 @@ Before beginning a module make sure to check for any suggested reading in the re
 
 Please remember: we are not here to be ordinary, we are here to be awesome.
 
+{% file src=".gitbook/assets/student-handbook-cohort-4.pdf" caption="The Student Handbook" %}
+
 {% page-ref page="launchpad/" %}
 
