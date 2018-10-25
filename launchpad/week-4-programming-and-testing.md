@@ -1,5 +1,7 @@
 # Week 4: Programming & Testing
 
+{% embed url="https://airtable.com/shrKs8XSeudbrYwvI" %}
+
 ## Day 2: Object-Oriented Programming
 
 ### Slides
