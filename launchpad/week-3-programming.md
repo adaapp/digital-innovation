@@ -18,7 +18,7 @@ Our goal isn't to have you be expert programmers by the end of the launchpad, me
 
 ### Slides
 
-[https://docs.google.com/presentation/d/1bsfKttSOLUl7sYtNaKgAmYFinuHqHTHv3\_fca0vNnL8/edit?usp=sharing](https://docs.google.com/presentation/d/1bsfKttSOLUl7sYtNaKgAmYFinuHqHTHv3_fca0vNnL8/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1bsfKttSOLUl7sYtNaKgAmYFinuHqHTHv3\_fca0vNnL8/edit?usp=sharing" %}
 
 ### Workshop
 
@@ -32,7 +32,7 @@ Help out by filling out this section!
 
 ### Slides
 
-[https://docs.google.com/presentation/d/1n8wFJhCQF-ytMsDWgkEamVZFlxkdit3An6S1k8FCk4g/edit?usp=sharing](https://docs.google.com/presentation/d/1n8wFJhCQF-ytMsDWgkEamVZFlxkdit3An6S1k8FCk4g/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1n8wFJhCQF-ytMsDWgkEamVZFlxkdit3An6S1k8FCk4g/edit?usp=sharing" %}
 
 ### Workshop
 
@@ -46,7 +46,7 @@ Help out by filling out this section!
 
 ### Slides
 
-[https://docs.google.com/presentation/d/1q7IxhaUpx-XeKwrXRHb1l0n\_jlbdOVCaSt0IRvbGhSM/edit?usp=sharing](https://docs.google.com/presentation/d/1q7IxhaUpx-XeKwrXRHb1l0n_jlbdOVCaSt0IRvbGhSM/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/1q7IxhaUpx-XeKwrXRHb1l0n\_jlbdOVCaSt0IRvbGhSM/edit?usp=sharing" %}
 
 ### Workshop
 
@@ -74,7 +74,7 @@ Complete at least one of the following three Katas in your own time:
 
 ### Slides
 
-[https://docs.google.com/presentation/d/11UtqSFnjyHV8zM39EeAFiCKj8IRUtWbONh1ANoRzRa4/edit?usp=sharing](https://docs.google.com/presentation/d/11UtqSFnjyHV8zM39EeAFiCKj8IRUtWbONh1ANoRzRa4/edit?usp=sharing)
+{% embed url="https://docs.google.com/presentation/d/11UtqSFnjyHV8zM39EeAFiCKj8IRUtWbONh1ANoRzRa4/edit?usp=sharing" %}
 
 ### Workshop
 
