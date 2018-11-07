@@ -21,6 +21,7 @@
   * [How to get unstuck with code](guides/how-to-get-unstuck-with-code.md)
   * [Git cheat sheet](guides/git-cheat-sheet.md)
   * [Command line cheat sheet](guides/command-line-cheat-sheet.md)
+  * [Starting a new Node.js project](guides/starting-a-new-node.js-project.md)
 * [For Coaches](for-coaches/README.md)
   * [Instructor Notes: Intro to the Command Line](for-coaches/lesson-intro-to-the-command-line.md)
 
