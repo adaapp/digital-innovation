@@ -22,7 +22,11 @@
 
 ![](../.gitbook/assets/screenshot-2018-11-06-at-14.00.48.png)
 
-## Day 3: Async JS & Automated API Tests
+## Day 3: Exploratory Testing, Async JS & Automated API Tests
+
+### Slides:
+
+[Exploratory Testing](https://docs.google.com/presentation/d/1PDXXKnIPgfVRaUholYxoTRs5Md46KJrkjD3PO9-9JdA/edit?usp=sharing)
 
 ### Workshop:
 
