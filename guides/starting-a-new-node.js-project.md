@@ -37,7 +37,6 @@
 ```javascript
 var chai = require('chai')
 var expect = chai.expect
-
 // delete this when you're ready to start writing actual tests
 it('works', function() {
   expect(2 + 2).to.equal(4)
