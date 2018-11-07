@@ -18,6 +18,7 @@
   * [Week 6: Testing](launchpad/week-6-testing.md)
 * [Guides](guides/README.md)
   * [Revision Tips & Staying Organised](guides/revision-tips-and-staing-organised.md)
+  * [SDLC Revision Materials](guides/sdlc-revision-materials.md)
   * [How to get unstuck with code](guides/how-to-get-unstuck-with-code.md)
   * [Git cheat sheet](guides/git-cheat-sheet.md)
   * [Command line cheat sheet](guides/command-line-cheat-sheet.md)
