@@ -18,7 +18,7 @@
 | `git diff` | Show the **diff**erence between the last commit and the files in your repo right now |
 | `git log` | See all the previous commits |
 
-## Making a commit
+## Making a commit & syncing with a remote \(e.g. GitHub\)
 
 | Command | Description |
 | :--- | :--- |
@@ -26,6 +26,7 @@
 | `git add .` | Add the current folder \(and everything in it\) to the stage so it's ready to commit |
 | `git commit -m 'describe the changes here'` | Commit the staged files - add a descriptive message of what changed and why! |
 | `git push` | Send all the new commits from your local repo to the remote one - e.g. GitHub |
+| `git pull` | Get all the new changes/commits from GitHub |
 
 
 
