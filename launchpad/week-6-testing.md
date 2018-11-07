@@ -22,3 +22,13 @@
 
 ![](../.gitbook/assets/screenshot-2018-11-06-at-14.00.48.png)
 
+## Day 3: Async JS & Automated API Tests
+
+### Workshop:
+
+{% embed url="https://github.com/adaapp/di-workshop-12-async" %}
+
+### Screencast:
+
+{% embed url="https://www.youtube.com/watch?v=MD\_Wpjt3DHQ" %}
+
