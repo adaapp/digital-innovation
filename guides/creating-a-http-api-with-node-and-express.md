@@ -148,3 +148,9 @@ app.get('/words/:id', function(req, res) {
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+### Tip: nodemon
+
+Constantly stopping and starting your server to get the most up to date changes is really tedious. You can use [Nodemon](https://nodemon.io/) instead of Node to run your server and automatically restart it whenever one of your files changes.
+
+Install it globally \(you only need to do this once\) with `npm install --global nodemon`, then run your server using `nodemon server.js`. If you have troubles running it after you've installed it \(this happens on Git Bash sometimes\), try running it with `npx nodemon server.js` instead. 
+
