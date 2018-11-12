@@ -16,6 +16,7 @@
   * [Week 4: Programming & Testing](launchpad/week-4-programming-and-testing.md)
   * [Week 5: Consolidation Week](launchpad/week-5-consolidation-week.md)
   * [Week 6: Testing](launchpad/week-6-testing.md)
+  * [Week 7: Data Structures & Algorithms](launchpad/week-7-data-structures-and-algorithms.md)
 * [Guides](guides/README.md)
   * [Revision Tips & Staying Organised](guides/revision-tips-and-staing-organised.md)
   * [SDLC Revision Materials](guides/sdlc-revision-materials.md)
