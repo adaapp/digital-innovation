@@ -24,5 +24,5 @@ TBA
 
 ### Workshop
 
-TBA
+{% embed url="https://github.com/adaapp/di-workshop-13-dsa-recursion" %}
 
