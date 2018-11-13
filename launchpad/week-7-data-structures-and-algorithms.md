@@ -4,13 +4,13 @@
 
 ### Slides
 
-TBA
+{% embed url="http://c.danny.is/4da42aa20cc5/DSA-Lecture%201.pdf" %}
 
 ## Day 2: Searching and Sorting Algorithms
 
 ### Slides
 
-TBA
+{% embed url="http://c.danny.is/906f6c3e6baf/DSA-Lecture%202.pdf" %}
 
 ### Workshop
 
