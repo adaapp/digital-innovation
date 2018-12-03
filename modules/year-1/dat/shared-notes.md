@@ -4,13 +4,13 @@
 
 - somewhere to store data
 - info about data 
-* metadata
+        - metadata
 - relationships/links
 - statistics
 - integrity
 - performance
 - structure
-* security
+        - security
 
 
 Functional dependency - There can be many cars with the same engine size but only one car for each registration. The unique car registration identifies the car, therefore ‘CarReg -> Engine Size’ (Engine Size is functionally dependant on Car Reg).
