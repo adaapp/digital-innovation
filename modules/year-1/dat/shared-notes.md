@@ -79,6 +79,8 @@ For a table to be in the First Normal Form, it should follow the following 5 rul
 
 In order to make data conform to the first normal form, then it may be needed to separate the data out into a second table - one for each entity/object.
 
+---
+
 
 
 **Second Normal Form (2NF)**
@@ -92,6 +94,7 @@ For a table to be in the Second Normal Form,
 Partial Dependency exists, when for a composite secondary key, any attribute in the table depends only on a part of the secondary key and not on the complete secondary key.
 To remove Partial dependencies, we can divide the table, remove the attribute which is causing the partial dependency, and move it to some other table where it fits in well.
 
+___
 
 **Third Normal Form (3NF)**
 
