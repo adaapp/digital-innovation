@@ -1,9 +1,3 @@
----
-description: >-
-  An overview of the Internet and the Web (HTTP, Browsers, Servers, URLs and
-  HTML) followed by a hands-on session with HTML.
----
-
 # Background and HTML
 
 {% embed url="http://submarinecablemap.com/" caption="The Internet is just a network of cables" %}

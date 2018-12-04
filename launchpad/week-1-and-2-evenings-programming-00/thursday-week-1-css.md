@@ -1,7 +1,3 @@
----
-description: 'An overview of Cascading Stylesheets, and how we use them to style HTML'
----
-
 # Cascading Stylesheets
 
 View the page source of this early version of Yahoo. This was built before CSS was invented.
