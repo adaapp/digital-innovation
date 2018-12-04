@@ -5,5 +5,7 @@
 * [January 2018 Paper](https://drive.google.com/open?id=1id-e4TUgI3NJ9oiNBGTTytUanPKZn3J6)
 * [August 2017 Paper](https://drive.google.com/open?id=1Mh7VoXDHHzWd4XeMxa1usdT8upEi1OAH)
 
+{% file src="../.gitbook/assets/revision-book.docx" caption="Jack\'s Revision Notes" %}
+
 
 
