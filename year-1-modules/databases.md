@@ -101,6 +101,8 @@ Long story short, separate any repeated data into unique tables.
 
 > “Every attribute should be a fact about the primary key, the whole key and nothing but the key - so help me Codd”
 
+<img src="https://ada-digi-apps.slack.com/files/UBXFSS1DG/FFC5EGA6L/screen_shot_2019-01-14_at_10.12.30.png" alt="Normal form comparison"/>
+
 ## Databases Day 4
 
 {% embed url="https://docs.google.com/presentation/d/1Xv-rwqvCNReXItrvmD\_WHMTLsMkoZsS4lQD3koq8snI/edit?usp=sharing" caption="ACID/CAP Theorem slides" %}
