@@ -7,5 +7,5 @@
 
 {% file src="../.gitbook/assets/revision-book.docx" caption="Jack\'s Revision Notes" %}
 
-
+{% file src="../.gitbook/assets/launchpad-notes.pdf" caption="Karolina\'s Revision Notes" %}
 

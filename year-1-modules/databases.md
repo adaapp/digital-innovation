@@ -101,7 +101,7 @@ Long story short, separate any repeated data into unique tables.
 
 > “Every attribute should be a fact about the primary key, the whole key and nothing but the key - so help me Codd”
 
-<img src="https://ada-digi-apps.slack.com/files/UBXFSS1DG/FFC5EGA6L/screen_shot_2019-01-14_at_10.12.30.png" alt="Normal form comparison"/>
+![Normal form comparison](https://ada-digi-apps.slack.com/files/UBXFSS1DG/FFC5EGA6L/screen_shot_2019-01-14_at_10.12.30.png)
 
 ## Databases Day 4
 
@@ -145,9 +145,9 @@ _**SQL Security**_ One way of locking down access to the database is to isolate 
 
 ### SQL Injection
 
-{% embed url="https://www.owasp.org/index.php/SQL\_Injection\_Prevention\_Cheat\_Sheet" %}
+{% embed url="https://www.owasp.org/index.php/SQL\_Injection\_Prevention\_Cheat\_Sheet" caption="" %}
 
- Primary defenses to prevent SQL injection attacks:
+Primary defenses to prevent SQL injection attacks:
 
 * Option 1: Use of Prepared Statements \(with Parameterized Queries\)
 * Option 2: Use of Stored Procedures
@@ -174,5 +174,5 @@ Any sensitive data should be stored in a database in encrypted format - definite
 
 ## Original shared notes by Cohort 3
 
-{% embed url="https://docs.google.com/document/d/1UC7t5hLijrNw2u5y20U-U1K\_WqVvPVoAA-WUthvaM38/edit" %}
+{% embed url="https://docs.google.com/document/d/1UC7t5hLijrNw2u5y20U-U1K\_WqVvPVoAA-WUthvaM38/edit" caption="" %}
 
